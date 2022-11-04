@@ -8,7 +8,7 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dolcej0lly&repo=github-readme-stats)](https://github.com/DolceJ0Lly/DolceJ0Lly)  DO NOT USE-->
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dolcej0lly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 （＾ω＾） (<3 4)
