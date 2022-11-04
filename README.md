@@ -13,4 +13,4 @@
 <a href="/minecraft/servers/feargames.md" title="mc.feargames.it Minecraft server"><img src="https://minecraftlist.com/servers/mc.feargames.it/banner@2x.jpg" alt="mc.feargames.it Minecraft server" width="600" height="100" /></a>
 
 
-（＾ω＾） (<3 4)
+（＾ω＾） (i❤u)
