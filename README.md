@@ -6,6 +6,6 @@
 
 ![github_stats_language](https://github-readme-stats.vercel.app/api/top-langs/?username=dolcej0lly&theme=radical&layout=compact)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dolcej0lly&repo=github-readme-stats)](https://github.com/DolceJ0Lly/DolceJ0Lly)
+// [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dolcej0lly&repo=github-readme-stats)](https://github.com/DolceJ0Lly/DolceJ0Lly)
 
 （＾ω＾） (<3 4)
