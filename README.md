@@ -2,11 +2,10 @@
 
 ### Informations:
 
-![github_stats](https://github-readme-stats.vercel.app/api?username=dolcej0lly&show_icons=true&theme=radical&include_all_commits=true)
+![github_stats](https://github-readme-stats.vercel.app/api?username=dolcej0lly&show_icons=true&theme=radical)
 
 ![github_stats_language](https://github-readme-stats.vercel.app/api/top-langs/?username=dolcej0lly&theme=radical&layout=compact)
 
-![github_stats](https://github-readme-stats.vercel.app/api?username=dolcej0lly&show_icons=true&theme=radical)
 
 
 （＾ω＾） (<3 4)
