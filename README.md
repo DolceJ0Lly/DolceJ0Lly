@@ -10,7 +10,7 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dolcej0lly)](https://github.com/anuraghazra/github-readme-stats) -->
 ### My favorite server: 
-![mc_feargames][/servers/mc.feargames.it/banner.jpg[/img][/url]
+<a href="/servers/mc.feargames.it" title="mc.feargames.it Minecraft server"><img src="/servers/mc.feargames.it/banner@2x.jpg" alt="mc.feargames.it Minecraft server" width="600" height="100" /></a>
 
 
 （＾ω＾） (<3 4)
