@@ -1,6 +1,6 @@
 <hr>
 
-## DolceFioko | @sBloccando | Fioko#3560 👋
+## DolceFioko | @sBloccando | Fioko Ly#3560 👋
 
 
 <a align=center href="web.telegram.org/@sBloccando">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&width=435&lines=Discord%3A+Fioko%233560;Telegram%3A+%40sBloccando;Twitter%3A+%40controllavo;What+u+want%3F;Need+help%3F+Write+me+on+socials;I%E2%99%A5u)](https://git.io/typing-svg)</a>
@@ -12,7 +12,10 @@
   
 <h1 align=center><b>Community</b></h1>
 
-<p align=center><img src="https://img.shields.io/discord/1030818435900383332.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" style="max-width: 100%;"></p>
+<p> soon </p>
+
+[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=31iiibxdbeyk64nbx2qoczchh3tu&theme=default&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%231ED760&background=true&background_color=%23121212)](https://github.com/Hecsall/spotiwidget)
+<!-- generate your link on spotiwidget.vercel.app -->
 
 <h1 align=center><b>Github visitors</b></h1>
 <p align=center><img src="https://profile-counter.glitch.me/DolceJ0Lly/count.svg"></p><br>
