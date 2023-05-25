@@ -15,8 +15,11 @@
 <p> soon </p>
 
 <h1 align=center><b>Spotify</b></h1>
-[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=31iiibxdbeyk64nbx2qoczchh3tu&theme=default&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%231ED760&background=true&background_color=%23121212)](https://github.com/Hecsall/spotiwidget)
-<!-- generate your link on spotiwidget.vercel.app -->
+<iframe src="https://spotiwidget.vercel.app/widget?uid=31iiibxdbeyk64nbx2qoczchh3tu&theme=default&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%231ED760&background=true&background_color=%23121212" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p>-------</p>
+<a href="https://adfoc.us/8003411">
+  <img src="https://logospng.org/wp-content/uploads/spotify.png" alt="Image of the Logo of The company of Spotify"> Canzoni boost per Fioky Boost (OLD)
+</a>
 
 <h1 align=center><b>Github visitors</b></h1>
 <p align=center><img src="https://profile-counter.glitch.me/DolceJ0Lly/count.svg"></p><br>
