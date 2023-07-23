@@ -18,7 +18,7 @@
 <iframe src="https://spotiwidget.vercel.app/widget?uid=31iiibxdbeyk64nbx2qoczchh3tu&theme=default&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%231ED760&background=true&background_color=%23121212" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <p>-------</p>
 <a href="https://adfoc.us/8003411">
- <img src="https://logospng.org/wp-content/uploads/spotify.png" alt="Image of the Logo of The company of Spotify" width="300"> Boost For FiokoLy (OLD PlayList)
+ <img src="[https://logospng.org/wp-content/uploads/spotify.png](https://png2.cleanpng.com/sh/314aa9ee24c5c7dd14d09b5909bed983/L0KzQYm3WMA0N6pokZH0aYP2gLBuTfNtcaEyeeR9LXPyfcH8lPVzNZpoh9D8LYfygr3rTgdqbJYyj9drLYPzgrr7hb1qdqVqReV5b4Tsdsq0ifNwdl5ritduLXBpPcT2gBlidF5yfdZyYT3kfcG0jP9od6Qygds2Zj24coe7gsc1PZZqUapqMT60QYG6U8E0OmI6S6U8Mke0R4SCV8c0NqFzf3==/kisspng-clip-art-computer-icons-world-wide-web-sprite-inte-spotify-icon-free-of-social-media-amp-logos-ii-f-5b64b745ee98a1.1103313215333271739773.png)" alt="Image of the Logo of The company of Spotify" width="300"> Boost For FiokoLy (OLD PlayList)
 </a>
 
 <h1 align=center><b>Github visitors</b></h1>
