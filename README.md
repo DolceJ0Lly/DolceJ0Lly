@@ -14,6 +14,8 @@
 
 <p> soon </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/865975319034331137)](https://discord.com/users/865975319034331137)
+
 <h1 align=center><b>Spotify</b></h1>
 
 ![Spotify Widget](https://spotiwidget.vercel.app/widget?uid=31iiibxdbeyk64nbx2qoczchh3tu&theme=default&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%231ED760&background=true&background_color=%23121212)
