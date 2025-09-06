@@ -3,10 +3,10 @@
 ## DolceFioko | @sBloccando | Fioko Ly#3560 (@fiokoly) 👋
 
 
-<a align=center href="web.telegram.org/@sBloccando">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&width=435&lines=Discord%3A+Fioko%233560;Telegram%3A+%40sBloccando;Twitter%3A+%40controllavo;What+u+want%3F;Need+help%3F+Write+me+on+socials;I%E2%99%A5u)](https://git.io/typing-svg)</a>
+<a align=center href="web.telegram.org/@sBloccando">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Philosopher&pause=1000&width=435&lines=Discord+%40fiokoly;Telegram+%40teslaiscool;Proud+Contributor+of+OpenStreetMap;Proud+Contributor+of+Waze;Proud+Contributor+of+Panoramax%2FMapillary;i%E2%9D%A4u)](discord.gg/Crbdxrbbv3)</a>
 
 <div align=center>
-<a href=""><img src="https://alessandrobasi.altervista.org/archivio/habbotext/text/generate.php?str=fioko&font=14" height=25></a>
+<a href=""><img src="https://alessandrobasi.altervista.org/archivio/habbotext/text/generate.php?str=discord.gg/Crbdxrbbv3&font=14" height=25></a>
 <!-- <a href=""><img src="https://alessandrobasi.altervista.org/archivio/habbotext/text/generate.php?str=fyour_test_here&font=14" height=25></a>-->
 </div>
   
