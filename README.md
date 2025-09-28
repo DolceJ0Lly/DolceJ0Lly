@@ -1,6 +1,6 @@
 <hr>
 
-## DolceFioko | @sBloccando | Fioko Ly#3560 (@fiokoly) 👋
+## Don't look here| @teslaiscool | (@fiokoly) 👋
 
 
 <a align=center href="web.telegram.org/@sBloccando">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Philosopher&pause=1000&width=435&lines=Discord+%40fiokoly;Telegram+%40teslaiscool;Proud+Contributor+of+OpenStreetMap;Proud+Contributor+of+Waze;Proud+Contributor+of+Panoramax%2FMapillary;i%E2%9D%A4u)](discord.gg/Crbdxrbbv3)</a>
