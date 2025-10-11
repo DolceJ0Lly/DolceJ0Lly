@@ -5,5 +5,5 @@ Happy contributor of:
 - [OpenStreetMap (IT)](https://github.com/osmItalia) (editor)
 - [Google Maps](https://github.com/googlemaps) (editor)
 - [Google Street View](https://github.com/purplewtf) (360° video, 6 km of videos) 
-<span style="font-size:10px">i know that's not a street view account</span>
+<small>i know that's not a street view account</small>
 
