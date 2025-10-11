@@ -4,6 +4,6 @@ Happy contributor of:
 - [Mapillary](https://github.com/mapillary) (360° contributor, flat contributor)
 - [OpenStreetMap (IT)](https://github.com/osmItalia) (editor)
 - [Google Maps](https://github.com/googlemaps) (editor)
-- [Google Street View](https://github.com/purplewtf) (360° video, 6 km of videos) 
+- [Google Street View](https://github.com/purplewtf) (360° video, 6 km of videos)\n
 <sub>i know that's not a street view account</sub>
 
